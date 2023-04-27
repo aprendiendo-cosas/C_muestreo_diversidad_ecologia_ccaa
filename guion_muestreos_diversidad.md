@@ -33,7 +33,7 @@ Este guión tiene los siguientes objetivos que deberán de ser satisfechos por l
 
 ## Breve descripción de la zona de estudio
 
-En esta actividad visitaremos varias zonas. Como es la primera vez que hacemos esta actividad, no podemos saber a priori cuántas zonas nos dará tiempo a muestrear con detalle. En principio haremos las siguientes paradas:
+En esta actividad visitaremos varias zonas. Como es la primera vez que hacemos esta actividad, no podemos saber a priori cuántas zonas nos dará tiempo a muestrear con detalle. En principio haremos las siguientes paradas (**ojo, todo esto está en el aire porque tengo que encontrar sitios en los que pueda parar el autobús. No he hecho nunca esta ruta en bus y me está costando. Pero no os preocupéis, porque vuestras tareas son independientes de los sitios en los que vayamos a tomar datos**):
 
 + Día 18:
   + Matorrales de baja montaña. 830m.
@@ -60,8 +60,23 @@ Dicho esto, deberéis de hacer lo siguiente:
 
 ### Preparar metodología de toma de datos para calcular el índice de Shannon en cada parada
 
-Esta metodología tendrá la forma de un breve texto en el que indicaréis a vuestros compañeros cómo proceder para capturar la información. Deberéis de tener en cuenta lo siguiente para adoptar una serie de decisiones:
-+ Características de las zonas muestreadas. En cada parada deberemos definir una parcela de muestreo. Podrá ser circular o cuadrada y tendrá un tamaño concreto que vosotros deberéis proponer. **BUSCA LIBRO DE MONITOREO QUE SE USÓ EN EL TFG SOBRE LTER EN EL PATRIARCA**. MENCIONAR TAMBIÉN LO QUE HAN HECHO EN ORDENACIÓN DEL TERRITORIO
+Esta metodología tendrá la forma de un breve texto en el que indicaréis a vuestros compañeros cómo proceder para capturar la información. Lo que tenéis que organizar aquí es parecido a los muestreos que ya habéis hecho en la asignatura de Ordenación del Territorio. Deberéis de tener en cuenta lo siguiente para adoptar una serie de decisiones:
++ Características de las zonas muestreadas. Cuando hacemos un muestreo estamos haciendo un ejercicio de simplificación de la realidad. No podemos capturar todas las especies de una zona concreta. Así que hay que seleccionar una muestra. Se utilizan varios tipos de unidades de muestreo:
+  + Transectos: Líneas de longitud variable que se disponen en el terreno. Se anotan los individuos que interesectan el transecto.
+  + Parcelas circulares o parcelas cuadradas: Se definen estas zonas con un tamaño determinado (variable según el tipo de ecosistema) y se anota la abundancia de cada una de las especies que hay en su interior. 
+
+Para decidir cómo proceder, echad un vistazo a este material (también podéis buscar por vuestra cuenta):
+
++ Biodiversity monitoring protocol for REDD+. Este libro muestra métodos para caracterizar la diversidad en varios grupos biológicos. Los capítulos 4 y 5 son especialmente interesantes. 
+
+En cada parada deberemos definir una parcela de muestreo. Podrá ser circular o cuadrada y tendrá un 		tamaño concreto que vosotros deberéis proponer. **BUSCA LIBRO DE MONITOREO QUE SE USÓ EN EL TFG SOBRE LTER EN EL PATRIARCA**. MENCIONAR TAMBIÉN LO QUE HAN HECHO EN ORDENACIÓN DEL TERRITORIO
+
+  + libro de reed
+  + muestreos fitosociológicos
+  + qué son transectos https://www.nps.gov/articles/000/what-are-transects.htm
+  + lo que han hecho en ordenación del territorio
+  + 
+
 + Cómo consideramos las especies. Idea de morfoespecie.
 
 
