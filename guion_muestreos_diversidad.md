@@ -61,31 +61,32 @@ Dicho esto, deberéis de hacer lo siguiente:
 ### Preparar metodología de toma de datos para calcular el índice de Shannon en cada parada
 
 Esta metodología tendrá la forma de un breve texto en el que indicaréis a vuestros compañeros cómo proceder para capturar la información. Lo que tenéis que organizar aquí es parecido a los muestreos que ya habéis hecho en la asignatura de Ordenación del Territorio. Deberéis de tener en cuenta lo siguiente para adoptar una serie de decisiones:
-+ Características de las zonas muestreadas. Cuando hacemos un muestreo estamos haciendo un ejercicio de simplificación de la realidad. No podemos capturar todas las especies de una zona concreta. Así que hay que seleccionar una muestra. Se utilizan varios tipos de unidades de muestreo:
-  + Transectos: Líneas de longitud variable que se disponen en el terreno. Se anotan los individuos que interesectan el transecto.
-  + Parcelas circulares o parcelas cuadradas: Se definen estas zonas con un tamaño determinado (variable según el tipo de ecosistema) y se anota la abundancia de cada una de las especies que hay en su interior. 
++ Características de las zonas muestreadas. Cuando hacemos un muestreo estamos haciendo un ejercicio de simplificación de la realidad. No podemos capturar todas las especies de una zona concreta. Así que hay que seleccionar una muestra. Se pueden utilizar varios tipos de unidades de muestreo que se describen en los siguntes recursos:
+  + [Biodiversity monitoring protocol for REDD+.](https://github.com/aprendiendo-cosas/C_muestreo_diversidad_ecologia_ccaa/raw/main/biblio/Biodiversity%20Monitoring%20Protocol%20for%20REDD%2B.pdf) Este libro muestra métodos para caracterizar la diversidad en varios grupos biológicos. Los capítulos 4 y 5 son especialmente interesantes. 
+  + [Measuring](https://github.com/aprendiendo-cosas/C_muestreo_diversidad_ecologia_ccaa/raw/main/biblio/measuring.pdf). Este texto describe de manera muy general los distintos tipos de elementos espaciales que se usan para tomar datos en campo: transectos, puntos de muestreo, etc. 
 
-Para decidir cómo proceder, echad un vistazo a este material (también podéis buscar por vuestra cuenta):
+  + [What are transects](https://www.nps.gov/articles/000/what-are-transects.htm). Web del gobierno de Estados Unidos describiendo algunos métodos de muestreo que pueden ser útiles en nuestro caso. 
 
-+ Biodiversity monitoring protocol for REDD+. Este libro muestra métodos para caracterizar la diversidad en varios grupos biológicos. Los capítulos 4 y 5 son especialmente interesantes. 
+  + [Cuaderno de campo](https://github.com/aprendiendo-cosas/C_muestreo_diversidad_ecologia_ccaa/raw/main/biblio/Cuaderno_campo.pdf): Es un cuaderno elaborado por los profesores de una asignatura del grado de biología llamada "geobotánica". En él se describen con detalle varios métodos de muestreo. Los más interesantes para nuestro objetivo son los transectos (página 10 y siguientes).
 
-En cada parada deberemos definir una parcela de muestreo. Podrá ser circular o cuadrada y tendrá un 		tamaño concreto que vosotros deberéis proponer. **BUSCA LIBRO DE MONITOREO QUE SE USÓ EN EL TFG SOBRE LTER EN EL PATRIARCA**. MENCIONAR TAMBIÉN LO QUE HAN HECHO EN ORDENACIÓN DEL TERRITORIO
++ Además, nos enfrentamos a otro problema importante: determinar los nombres de las especies que nos vayamos encontrando. Es un problema importante porque ni vosotros ni yo somos expertos en la flora y la fauna de Sierra Nevada. Y tenemos que contabilizar cuántos individuos de cuántas especies nos encontramos en los distintos puntos de muestreo. Para tratar de resolver este problema usaremos tres técnicas:
 
-  + libro de reed
-  + muestreos fitosociológicos
-  + qué son transectos https://www.nps.gov/articles/000/what-are-transects.htm
-  + lo que han hecho en ordenación del territorio
-  + 
+  + En primer lugar usaremos un concepto laxo de especie: morfoespecie. Me consta que ya conocéis este concepto porque lo habéis visto en Ordenación del Territorio. Según vuestro profesor Rafael Molero Baltanás, una morfoespecie se define como _un conjunto de seres vivos que identificamos como semejantes, de forma que establecemos la hipótesis de que todos los semejantes pertenecen a la misma especie. De este modo, otros seres vivos en los que reconocemos algún tipo de diferencia (en tamaño, color, morfología, etc.) serían morfoespecies distintas. El criterio por el que establecemos estas diferencias es subjetivo, de modo que puede variar de unas personas a otras, pero se trata de que en nuestro trabajo mantengamos un criterio constante para poder realizar comparaciones._ Parte de vuestro trabajo como responsables de esta actividad consiste en asegurarse (en la medida de lo posible) que los compañeros que toman datos nombran de la misma forma a todas las morfoespecies. Por ejemplo, si un grupo llama "planta de flores amarillas" a una especie de planta concreta y otro grupo la llama "flor amarilla", estaremos cometiendo un error. Tendréis que ir revisando los datos que tome cada grupo para poner un poco de orden. 
+  + Para minimizar los errores también haremos fotografías de cada una de las especies muestreadas. Seguramente casi todas ellas serán plantas, ya que los animales son esquivos. En el formulario digital que usaremos para tomar datos se pueden capturar fotografías. En la siguiente sección os explico cómo se hace. 
+  + Por último, podemos usar aplicaciones que son capaces de determinar con cierto grado de fiabilidad las especies que encontramos mediante fotografías. Ahí van algunas que todos los compañeros deberán de instalar en sus móviles:
+    + PlantNet ([Android](https://play.google.com/store/apps/details?id=org.plantnet&gl=US), [iOS](https://apps.apple.com/es/app/plantnet/id600547573?platform=iphone)): Permite identificar plantas a parti rde una fotografía de alguno de sus órganos. 
+    + Picture Insectd ([Android](https://play.google.com/store/apps/details?id=com.glority.pictureinsect), [iOS](https://apps.apple.com/es/app/picture-insect-insectos-id/id1461694973?platform=iphone)): Igual que la anterior, pero con insectos.
 
-+ Cómo consideramos las especies. Idea de morfoespecie.
+
+Con todo lo anterior deberéis de proponer una metodología de captura de datos. Escribidla en un texto corto de unas 2-4 páginas como máximo. No os preocupéis si no os sale perfecto. Es vuestra primera vez y os costará trabajo. La clave es que aprendáis en el proceso.
 
 
 
 ### Diseñar métodología para capturar los datos tomados en campo
 
-Cuando estemos tomando datos en campo, tendremos que "anotarlos" en algún sitio. La opción fácil en el corto plazo es apuntarlos en una libreta. Pero eso complica el proceso de digitalización. Así que vamos a utilizar una aplicación que permite capturar datos usando un teléfono móvil. La aplicación se llama **Epicollect5** y está accesible en [esta](https://five.epicollect.net/login) web. Con ella podemos generar formularios a la carta que se adapten a la metodología de captura de datos que vayamos a realizar. La idea es que entre vosotros y yo construyamos los formularios de carga de datos y que vuestros compañeros lo usen desde sus móviles cuando estén tomando información en cada parada. 
+Cuando estemos tomando datos en campo, tendremos que "anotarlos" en algún sitio. La opción fácil en el corto plazo es apuntarlos en una libreta. Pero eso complica el proceso de digitalización. Así que vamos a utilizar una aplicación que permite capturar datos usando un teléfono móvil. La aplicación se llama *Epicollect5* y está accesible tanto en [esta](https://five.epicollect.net/login) web como descargable para [Android](https://play.google.com/store/apps/details?id=uk.ac.imperial.epicollect.five&gl=ES) y para [iOS](https://apps.apple.com/es/app/epicollect5/id1183858199). Con ella podemos generar formularios a la carta que se adapten a la metodología de captura de datos que vayamos a realizar. La idea es que entre vosotros y yo construyamos los formularios de carga de datos y que vuestros compañeros lo usen desde sus móviles cuando estén tomando información en cada parada. 
 
-Soy consciente de que esta actividad es compleja, así que, si os parece, podemos quedar un día para trabajar juntos con Epicollect5. Contactadme cuando tengáis más o menos clara la metodología de muestreo. 
+Soy consciente de que esta actividad es compleja, así que, si os parece, podemos quedar un día para trabajar juntos con Epicollect5. Contactadme cuando tengáis más o menos clara la metodología de muestreo y lo vemos juntos.
 
 
 
@@ -94,17 +95,3 @@ Soy consciente de que esta actividad es compleja, así que, si os parece, podemo
 Esta es la parte más fácil porque se trata de mandar a los demás (jeje). Deberéis de asignar la tarea de captura de información a los estudiantes que consideréis. Sería lógico que los compañeros que exponen en cada parada no sean los mismos que luego tienen que tomar datos de diversidad. En esta actividad yo estaré ayudando también. 
 
 
-
-
-
-En esta sección se enumeran las interacciones entre el profesor y el equipo de trabajo. También se enlazan los documentos entregados por los estudiantes y los comentarios hechos a los mismos por el profesor. 
-
-+ Viernes 21 de abril. El profesor aporta este guión.
-+ Lunes 8 de mayo. Los estudiantes hacen la primera propuesta de metodología y de formulario de carga de datos. Se representa como un breve texto (no más de 4 páginas) en el que se describen los elementos a abordar durante la parada. El texto deberá incluir un enlace al proyecto de Epicollect5 creado para capturar datos. Puede incluir imágenes, mapas, etc. Debéis subirlo [aquí](https://www.turnitin.com/t_submit.asp?r=55.4588105722505&svr=37&lang=en_us&aid=134318496). 
-+ Entregas parciales. Aquí iré añadiendo comentarios relacionados con las entregas parciales realizadas y con las interacciones entre el grupo y el profesor.
-+ Lunes 5 de junio. Entrega final del siguiente material:
-  + Guión descrito anteriormente con mejoras respecto a la versión inicial.
-  + Reflexiones sobre cómo ha sido el trabajo en equipo. Los miembros del grupo deberán consensuar un breve texto que indique cuál ha sido la contribución al trabajo de cada uno de los miembros del equipo.
-  + Cada miembro del equipo deberá de escribir un párrafo describiendo cómo ha sido el aprendizaje durante la realización de la actividad. Ej. qué actividades han provocado más aprendizaje, etc.
-  + Recopilación de los comentarios realizados por el resto de la clase cuando se realiza la actividad en el campo.
-  + Conjunto de datos generados por toda la clase en los distintos puntos de muestreo.  
