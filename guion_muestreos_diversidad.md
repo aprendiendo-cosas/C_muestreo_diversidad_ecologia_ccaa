@@ -33,7 +33,7 @@ Este guión tiene los siguientes objetivos que deberán de ser satisfechos por l
 
 ## Breve descripción de la zona de estudio
 
-En esta actividad visitaremos varias zonas. Como es la primera vez que hacemos esta actividad, no podemos saber a priori cuántas zonas nos dará tiempo a muestrear con detalle. En principio haremos las siguientes paradas (**ojo, todo esto está en el aire porque tengo que encontrar sitios en los que pueda parar el autobús. No he hecho nunca esta ruta en bus y me está costando. Pero no os preocupéis, porque vuestras tareas son independientes de los sitios en los que vayamos a tomar datos**):
+En esta actividad visitaremos varias zonas. Como es la primera vez que hacemos esta actividad, no podemos saber a priori cuántas zonas nos dará tiempo a muestrear con detalle. En principio haremos las siguientes paradas (**ojo, la lista de paradas está en el aire porque tengo que encontrar sitios en los que pueda parar el autobús. No he hecho nunca esta ruta en bus y me está costando. Pero no os preocupéis, porque vuestras tareas son independientes de los sitios en los que vayamos a tomar datos**):
 
 + Día 18:
   + Matorrales de baja montaña. 830m.
@@ -47,7 +47,7 @@ En el siguiente mapa puedes ver la ubicación de la parada en la que realizaremo
 
 
 
-<iframe src="https://www.google.com/maps/d/u/1/embed?mid=1j7aCwRMl_e7NL1P5sDUf_CV8M7howEE&ehbc=2E312F" width="640" height="680"></iframe>
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1CpTxIhhaH3Rx0FkhD-1chSe7mSaIJyc&ehbc=2E312F" width="640" height="680"></iframe>
 
 
 
@@ -93,5 +93,4 @@ Soy consciente de que esta actividad es compleja, así que, si os parece, podemo
 ### Coordinar el proceso de captura de datos en campo
 
 Esta es la parte más fácil porque se trata de mandar a los demás (jeje). Deberéis de asignar la tarea de captura de información a los estudiantes que consideréis. Sería lógico que los compañeros que exponen en cada parada no sean los mismos que luego tienen que tomar datos de diversidad. En esta actividad yo estaré ayudando también. 
-
 
