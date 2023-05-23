@@ -128,7 +128,7 @@ scatter.smooth(shannon_vs_altura$elevation, shannon_vs_altura$shannon, span = 0.
                  list(col = "red", lwd = 5, lty = 6), xlab = "Altura", ylab= "Índice de Shannon")
 
 ```
-<span style="color:green">Obtuve esta gráfica: 
+<span style="color:green">Obtuve esta gráfica: </span>
 
-
+![grafica]()
 
