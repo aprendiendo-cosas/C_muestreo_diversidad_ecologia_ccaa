@@ -128,7 +128,16 @@ scatter.smooth(shannon_vs_altura$elevation, shannon_vs_altura$shannon, span = 0.
                  list(col = "red", lwd = 5, lty = 6), xlab = "Altura", ylab= "Índice de Shannon")
 
 ```
+
+
 <span style="color:green">Obtuve esta gráfica: </span>
 
-![grafica]()
+![grafica](https://github.com/aprendiendo-cosas/C_muestreo_diversidad_ecologia_ccaa/blob/main/imagenes/shannon_vs_altura.jpeg?raw=true)
+
+<span style="color:green">En ella se observa cómo se distribuye el índice de Shannon en función de la altura para cada uno de los 15242 polígonos que hay en nuestro mapa. Cada circulito hueco se corresponde con un polígono. Hay muchos polígonos que tienen un índice de Shannon nulo (la línea negra que hay abajo) y otros muchos que tienen distintos valores. La línea roja discontinua representa un intento (un poco torpe y automatizado) de mostrar un patrón en la relación que estamos estudiando (altura y diversidad). Vuestro trabajo aquí consiste en discutir los resultados que hemos obtenido. De forma más concreta deberáis añadir una sección al texto que entreguéis con lo siguiente: </span>
+
++ <span style="color:green">¿Se cumple la hipótesis inicial de que conforme subimos baja la diversidad? Justificad la respuesta y añadid referencias bibliográficas para apoyar vuestra respuesta.</span>
++ <span style="color:green">¿Cómo se puede explicar el patrón observado? Justificad la respuesta y añadid referencias bibliográficas para apoyar vuestra respuesta.</span>
++ <span style="color:green">Da la sensación de que el máximo de diversidad se alcanza en torno a los 1500m de altura. ¿Qué tipo de ecosistemas hay a esa altura en Sierra Nevada? ¿Por qué creéis que son más diversos?</span>
++ <span style="color:green">Si hiciéramos la misma gráfica en el Atlas marroquí y en los montes Scandes de Suecia, ¿qué forma tendría? Tratad de representarla usando Powerpoint o cualquier otra herramienta que sirva para hacer esquemas. </span>
 
