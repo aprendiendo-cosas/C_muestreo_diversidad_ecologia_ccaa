@@ -15,6 +15,12 @@
 
 
 
+## <span style="color:green">**Nota importante post-excursión**</span>
+
+<span style="color:green"> Como era de esperar la cosa no salió como hubiéramos querido... Pero siempre hay aprendizajes útiles en todos estos procesos. Intentaremos aprender de aquí también. He querido mantener la estructura del documento para que se expresen en él tanto la idea inicial como lo que al final hicimos y lo que tenéis que hacer. El texto antiguo se muestra en negro (con los enlaces en azul, como siempre). Añadiré texto nuevo que se mostrará en verde :)</span>
+
+
+
 ## Objetivos
 
 Este guión tiene los siguientes objetivos que deberán de ser satisfechos por los estudiantes que preparan esta actividad. 
@@ -28,19 +34,19 @@ Este guión tiene los siguientes objetivos que deberán de ser satisfechos por l
   + Mejorar sus habilidades para trabajar en equipo.
   + Entrenar la capacidad de los estudiantes para construir hilos argumentales.
   + Avanzar en la capacidad de los estudiantes para hablar en público.
+  + <span style="color:green"> Aprender de los errores cometidos y a cambiar de planes...</span>
 
 
 
 ## Breve descripción de la zona de estudio
 
-En esta actividad visitaremos varias zonas. Como es la primera vez que hacemos esta actividad, no podemos saber a priori cuántas zonas nos dará tiempo a muestrear con detalle. En principio haremos las siguientes paradas (**ojo, la lista de paradas está en el aire porque tengo que encontrar sitios en los que pueda parar el autobús. No he hecho nunca esta ruta en bus y me está costando. Pero no os preocupéis, porque vuestras tareas son independientes de los sitios en los que vayamos a tomar datos**):
+En esta actividad visitaremos varias zonas. Como es la primera vez que hacemos esta actividad, no podemos saber a priori cuántas zonas nos dará tiempo a muestrear con detalle. En principio haremos las siguientes paradas:
 
 + Día 18:
-  + Matorrales de baja montaña. 830m.
+  + Matorrales de baja montaña. 830m. <span style="color:green"> No lo hicimos porque llovió</span>
 + Día 19:
-  + Encinar mesomediterráneo. 970m. 
-  + Matorral supramediterráneo. 2000m.
-  + Enebral oromediterráneo. 2300m.
+  + Matorral supramediterráneo. 2000m. <span style="color:green">Fue el único muestreo que hicimos en realidad. </span>
+  + Enebral oromediterráneo. 2300m. <span style="color:green">Un tormentón de nieve nos impidió llegar a esta y a la siguiente parada. </span>
   + Pastizal crioromediterráneo. 2600m.
 
 En el siguiente mapa puedes ver la ubicación de la parada en la que realizaremos esta actividad. Es un mapa dinámico en el que puedes interactuar con los distintos elementos. Si haces click en los puntos verás fotos e información relevante.
@@ -75,10 +81,11 @@ Esta metodología tendrá la forma de un breve texto en el que indicaréis a vue
   + Para minimizar los errores también haremos fotografías de cada una de las especies muestreadas. Seguramente casi todas ellas serán plantas, ya que los animales son esquivos. En el formulario digital que usaremos para tomar datos se pueden capturar fotografías. En la siguiente sección os explico cómo se hace. 
   + Por último, podemos usar aplicaciones que son capaces de determinar con cierto grado de fiabilidad las especies que encontramos mediante fotografías. Ahí van algunas que todos los compañeros deberán de instalar en sus móviles:
     + PlantNet ([Android](https://play.google.com/store/apps/details?id=org.plantnet&gl=US), [iOS](https://apps.apple.com/es/app/plantnet/id600547573?platform=iphone)): Permite identificar plantas a parti rde una fotografía de alguno de sus órganos. 
-    + Picture Insectd ([Android](https://play.google.com/store/apps/details?id=com.glority.pictureinsect), [iOS](https://apps.apple.com/es/app/picture-insect-insectos-id/id1461694973?platform=iphone)): Igual que la anterior, pero con insectos.
-
+    + Picture Insect ([Android](https://play.google.com/store/apps/details?id=com.glority.pictureinsect), [iOS](https://apps.apple.com/es/app/picture-insect-insectos-id/id1461694973?platform=iphone)): Igual que la anterior, pero con insectos.
 
 Con todo lo anterior deberéis de proponer una metodología de captura de datos. Escribidla en un texto corto de unas 2-4 páginas como máximo. No os preocupéis si no os sale perfecto. Es vuestra primera vez y os costará trabajo. La clave es que aprendáis en el proceso.
+
+<span style="color:green">Partiendo de la entrega que ya hicisteis antes de la excursión deberéis modificar el documento para que recoja la metodología que realmente pusimos en práctica. En el texto que entreguéis debéis mantener la versión inicial vuestra y también la que aplicamos en realidad. Así veréis mejor las diferencias. Sería útil que explicitárais las ventajas de cada uno de los métodos. </span>
 
 
 
@@ -88,9 +95,40 @@ Cuando estemos tomando datos en campo, tendremos que "anotarlos" en algún sitio
 
 Soy consciente de que esta actividad es compleja, así que, si os parece, podemos quedar un día para trabajar juntos con Epicollect5. Contactadme cuando tengáis más o menos clara la metodología de muestreo y lo vemos juntos.
 
+<span style="color:green">Al final yo me encargué de preparar los formularios de carga de datos en campo. He descargado los datos y no tienen muy buena pinta. Al parecer solo dos de los cinco grupos terminó de enviar los datos desde la aplicación. Además, como solo tenemos un punto de muestreo, no podremos testear la hipótesis que nos planteamos inicialmente. En cualquier caso, si tenéis curiosidad, [aquí](https://five.epicollect.net/project/muestreo-diversidad-sierra-nevada-2023/data) podéis ver los datos. No tenéis que hacer nada con ellos. Mejoraremos esto para el año que viene. Vuestro trabajo servirá para que vuestros compañeros que ahora están en primero consigan lo que nosotros no pudimos hacer :)</span>
+
 
 
 ### Coordinar el proceso de captura de datos en campo
 
 Esta es la parte más fácil porque se trata de mandar a los demás (jeje). Deberéis de asignar la tarea de captura de información a los estudiantes que consideréis. Sería lógico que los compañeros que exponen en cada parada no sean los mismos que luego tienen que tomar datos de diversidad. En esta actividad yo estaré ayudando también. 
+
+
+
+<span style="color:green; font-weight:700; font-size:25px">Reflexionar sobre la relación entre diversidad y elevación</span>
+
+<span style="color:green">Aunque no tomamos los datos que nos hubiera gustado, sí que es posible obtener algo de información sin salir al campo. En la práctica sobre el mapa de diversidad de Sierra Nevada construimos un mapa que mostraba la distribución del índice de Shannon en nuestra zona de estudio. Partiendo de ese mapa, he hecho lo siguiente:</span>
+
++ <span style="color:green">Asignar a cada polígono del mapa de Shannon su altura promedio. Para ello usé un modelo digital de elevaciones y la función "Zonal statistics" de QGIS. De esta forma, cada polígono (que ya tenía un valor del índice de Shannon), ahora tiene también su altitud promedio. Si queréis explorar esto, aquí está el modelo digital de elevaciones que usé. Y aquí el resultado obtenido. </span>
++ <span style="color:green">A partir de la capa anterior (una capa de polígonos), exporté su tabla de atributos para obtener este archivo .csv. </span>
++ <span style="color:green">Esto me permitió aplicar el siguiente código en R para obtener una bonita gráfica:</span>
+
+```R
+
+setwd("pon aquí tu ruta")
+
+# importamos csv obtenido tras asignar altura a los polígonos del mapa de vegetación que ya tenían el índice de Shannon asignado
+shannon_vs_altura<-read.csv("shannon_vs_altura.csv", header = TRUE, sep=",")
+
+
+# Pintamos gráfica
+
+scatter.smooth(shannon_vs_altura$elevation, shannon_vs_altura$shannon, span = 0.3, degree = 1,
+               family = "symmetric", evaluation = 5000, lpars =
+                 list(col = "red", lwd = 5, lty = 6), xlab = "Altura", ylab= "Índice de Shannon")
+
+```
+<span style="color:green">Obtuve esta gráfica
+
+
 
